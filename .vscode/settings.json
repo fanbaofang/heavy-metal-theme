@@ -1,13 +1,14 @@
 {
-    "easysass.formats": [
+    "liveSassCompile.settings.formats": [
         {
-            
             "format": "expanded",
-            "extension": ".css"
+            "extensionName": ".css",
+            "savePath": "/dist/css"
         },
         {
             "format": "compressed",
-            "extension": ".min.css"
-        }
+            "extensionName": ".min.css",
+            "savePath": "/dist/css"
+        },
     ],
 }
