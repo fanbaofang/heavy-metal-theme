@@ -11,4 +11,5 @@
             "savePath": "/dist/css"
         },
     ],
+    "beautify.config": null,
 }
