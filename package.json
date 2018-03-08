@@ -1,0 +1,27 @@
+{
+  "name": "heavy-metal-theme",
+  "version": "1.0.0",
+  "description": "heavy metal theme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/europeancastle/heavy-metal-theme.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "Yu JinXian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/europeancastle/heavy-metal-theme/issues"
+  },
+  "homepage": "https://github.com/europeancastle/heavy-metal-theme#readme"
+}
